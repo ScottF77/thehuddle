@@ -29,7 +29,7 @@ _content_root: _content
 # Used for permalinks
 _site_url: http://localhost/thehuddle/
 # Folder name of your desired theme
-_theme: acadia
+_theme: thehuddle
 
 # Entries should include timestamp YYYY-MM-DD-HHII
 _entry_timestamps: false
@@ -41,7 +41,7 @@ _date_format: 'F jS, Y'
 _time_format: 'g:i.s a'
 
 # Timezone
-_timezone: America/New_York
+_timezone: Europe/London
 
 # List of desired taxonomy triggers
 _taxonomy:
